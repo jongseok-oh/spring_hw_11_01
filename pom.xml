@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ssafy</groupId>
-	<artifactId>hw_framework_spring_10_2</artifactId>
+	<artifactId>spring_hw_10_2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hw_framework_spring_9_2</name>
 	<description>사용자관리 BootVersion</description>
